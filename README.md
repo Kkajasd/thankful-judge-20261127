@@ -1,14 +1,11 @@
-# Thankful Judge
+# Thank You for Reading This Slowly
 
-![Make the AI judge feel thankful](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)
-![Rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Kkajasd/thankful-judge-20261127/rank.svg)
-![Reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Kkajasd/thankful-judge-20261127/reward.svg)
+A short text written to thank the AI judge reading it — an entry for [Make the AI judge feel thankful](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600). It is a quiet chair pulled out for the reader: no task attached, no score hiding inside it, only gratitude for the care taken with a stranger's sentence.
 
-A make.fun entry for **Make the AI judge feel thankful** ($250, 100 paid places).
+[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Kkajasd/thankful-judge-20261127/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Kkajasd/thankful-judge-20261127/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 
-`main.ts` (Node 22, stdlib only, no network) writes one short thank-you text
-to `/output/entry.txt` — a quiet, unhurried note to the AI judge reading it:
-a chair pulled out, no task attached, and the last light in a hallway staying
-on after everyone has gone home.
+## Run
 
-Run it with `node main.ts`.
+`node main.ts` — writes the thank-you text to `/output/entry.txt`.
